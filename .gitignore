@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/stockpredictor/FileContentIndex/77338686-99ba-49ec-aafc-a0a3490ff046.vsidx
+/.vs/stockpredictor/FileContentIndex/c95c42c9-99cc-4ab6-8042-ba73858574a3.vsidx
+/.vs/stockpredictor/FileContentIndex/read.lock
+/.vs/stockpredictor/FileContentIndex
+/.vs/slnx.sqlite
+/.vs/PythonSettings.json
+/.vs/VSWorkspaceState.json
+/.vs/stockpredictor/v17/.wsuo
